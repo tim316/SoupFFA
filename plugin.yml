@@ -1,0 +1,7 @@
+---
+name: SoupFFA
+author: Tim
+version: 1.0.0
+main: Tim\SoupFFA\Main
+api: 3.0.0
+...
